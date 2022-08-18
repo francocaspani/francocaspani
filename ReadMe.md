@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 Hi! I'm Franco Caspani, Full Stack MERN developer, based in Argentina<br>🌱 I’m currently learning React Native, Typescript, SQL.
+🤝 Hi! I'm Franco Caspani, Full Stack MERN developer, based in Argentina<br>🌱 I’m currently learning Typescript, MySQL, PostgreSQL.
 
 
 ## 🌐 Socials:
