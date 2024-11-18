@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 Hi! I'm Franco Caspani, Full Stack developer, based in Argentina<br>🌱 I’m currently pursuing a degree in Software Engineering.
+🤝 Hi! I'm Franco Caspani, Full Stack developer, based in Spain<br>🌱 I’m currently pursuing a degree in Software Engineering.
 
 
 ## 🌐 Socials:
